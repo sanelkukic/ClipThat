@@ -3,8 +3,13 @@ A Windows CLI app which takes input and copies it to your clipboard.
 
 ***Please bear with me, this is the very first app I've ever written in C++.***
 
+## Demonstration
+![demo gif](https://stash.xdrixxyz.ml/sharex-uploads/1535770030_JzRZ1U5.gif)
+
+## Download
 [Download it here](https://github.com/xDrixxyz/ClipThat/releases/latest)
 
+## How to use
 Input can be provided in 1 of 2 ways:
 
 - Via command-line arguments to the ClipThat executable.
